@@ -81,7 +81,7 @@ require (
 	golang.org/x/term v0.0.0-20210615171337-6886f2dfbf5b
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa
 	google.golang.org/grpc v1.42.0
-	google.golang.org/protobuf v1.27.1
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/go-playground/webhooks.v5 v5.11.0
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.23.3
